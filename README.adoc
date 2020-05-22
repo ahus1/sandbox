@@ -1,3 +1,7 @@
-Test!
-XXxx
-ASD
+= Hi!
+
+:attr: val
+
+THis is a test.
+
+{attr}
