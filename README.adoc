@@ -6,7 +6,7 @@ Das ist ein Tesdt.ddddddddddddddddddddddddd
 dddddddddddddddddddddddddddddddd
 ddddddddddddadfasdfasdf
 ddddadfadsf
-++++xxxxx
+++++
 <b>bold!</b>
 ++++
 
