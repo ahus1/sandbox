@@ -1,9 +1,3 @@
 = Hi!
 
-Valxxxxxxxxx
-
-++++
-<b>bold!</b>
-++++
-
-
+Das ist ein Test.
