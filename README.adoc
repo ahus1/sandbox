@@ -1,7 +1,5 @@
-Das ist etwas Text.
-sdasdfasdfasdf
-Mal schauen, wie das so funktioniert!xxxxsddddsssaaaa
-zddddasdfasdfasdfasdfasdf
+Hello world! This an test!
+
 [source,json]
 -----
 {"hi": ""}
